@@ -1,4 +1,7 @@
-﻿public class Solution {
+﻿ArrayBuilder a = new ArrayBuilder();
+
+
+public class Solution {
     public int MaxProfit(int[] prices)
     {
         var result = 0;
