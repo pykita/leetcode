@@ -1,0 +1,4 @@
+https://leetcode.com/explore/interview/card/top-interview-questions-medium/113/math/818/
+
+Я не решил что бы не выходит за лимит времени
+Time Limit Exceeded 
