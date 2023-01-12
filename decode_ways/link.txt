@@ -1,0 +1,8 @@
+https://leetcode.com/explore/interview/card/top-interview-questions-hard/121/dynamic-programming/861/
+
+teo ways from Dima
+1. enumaration 
+time limit exceeded on "111111111111111111111"
+
+2. dp
+accepted faster that 86%
