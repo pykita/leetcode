@@ -1,0 +1,4 @@
+https://leetcode.com/explore/interview/card/top-interview-questions-hard/122/design/867/
+
+time complexity O(1)
+better than 90% 
